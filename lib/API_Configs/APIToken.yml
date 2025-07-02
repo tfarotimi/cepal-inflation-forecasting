@@ -1,0 +1,15 @@
+# Last updated: 17.05.2021 by Albert Bredt
+
+# This document contains the tokens or credentials for some APIs
+
+ARG_CB:
+  token: 'eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2NDQ2ODE2MDksInR5cGUiOiJleHRlcm5hbCIsInVzZXIiOiJhbGJlcnQuYnJlZHRAY2VwYWwub3JnIn0.CcUbL4yo8-IghhbR_6Ddko1lOx2Y3dH9wvgSLBjT5YLTvGiU-jwFcg8iJhlbrsDVreWfiGTPibk8UiIJ2rz3zA'
+
+CHL_CB:
+  user: "202142"
+  password: "J1QcR8f1v7N8"
+MEX_CB:
+  token: '75aad636ef5d2a22642f674969c6bec258973c6738b9f008ae5c48810ddae9fc'
+
+Comtrade:
+  token: 'E3GLkdnJPkqy396Cqv1YdgHVvIqen7GOqxxiuwxgwVBeX8wPvqh8hfg4DJlnLLhYQ2MOxuUG266l/FlpUqip0UVI/cZbL9rAnHkELOvd+WoTxf8x3WEkzPAQp6Audd7LgzPNyEtZEz+pe5KqjSNDEg=='

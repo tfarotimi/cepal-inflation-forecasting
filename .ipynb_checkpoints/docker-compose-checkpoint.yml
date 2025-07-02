@@ -1,0 +1,8 @@
+version: '3'
+services:
+  web:
+    image: inflation-forecast
+    ports:
+      - 8888:8888
+    volumes:
+      - ./:/main

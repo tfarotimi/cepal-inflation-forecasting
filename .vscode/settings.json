@@ -1,0 +1,13 @@
+{
+    "remote.downloadExtensionsLocally": false,
+    "terminal.integrated.env.windows": {
+        
+    },
+    "accessibility.signals.notebookCellCompleted": {
+        "sound": "on"
+    },
+    "accessibility.signals.notebookCellFailed": {
+        "sound": "on"
+    },
+    "python.analysis.autoImportCompletions": true
+}

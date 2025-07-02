@@ -1,0 +1,4 @@
+inflacion_interanual:
+  seriesFormat: YYYY-MM-DD
+  seriesFrequency: M
+  seriesID: inflacion_inteanual_oficial

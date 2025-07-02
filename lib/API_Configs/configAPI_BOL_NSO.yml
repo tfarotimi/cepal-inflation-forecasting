@@ -1,0 +1,6 @@
+CPI YOY % Change:
+  seriesFormat: MMM-YY_es
+  seriesFrequency: M
+  seriesID:
+    group: ipc
+    series: datoa

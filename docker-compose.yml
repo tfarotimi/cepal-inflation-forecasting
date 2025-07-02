@@ -1,0 +1,12 @@
+version: '3'
+services:
+ jupyter7:
+  build: 
+    context: .
+  container_name: inflation_forecast
+  ports:
+   - "8888:8888"
+  volumes:
+    - .:/main
+
+#latest 
